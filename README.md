@@ -1,4 +1,4 @@
-# React Facts — Learning Project
+# React Facts - Learning Project
 
 **Note:** This was a pure learning project. I didn't use any AI-autopilot or auto-code tools. Every single line was written by me to get real hands-on experience with React.
 
@@ -6,8 +6,6 @@
 
 This project is a small React application created to practice core React fundamentals.  
 The goal was to understand components, JSX, styling, and project structure using Vite, rather than building a feature-heavy app.  
-
-It is a recreation of the classic “React Facts” page, built from scratch.
 
 ## Features
 
@@ -33,6 +31,7 @@ It is a recreation of the classic “React Facts” page, built from scratch.
 - React (JSX, components)
 - Vite (development server + build tool)
 - JavaScript (ES6+)
+- HTML
 - CSS
 
 ## File Structure

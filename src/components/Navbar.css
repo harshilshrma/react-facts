@@ -1,0 +1,13 @@
+#nav {
+    background: #1a1b1dd4;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+#title {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #61DBFB;
+}

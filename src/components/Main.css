@@ -1,0 +1,17 @@
+#main {
+    height: 400px;
+    /* border: 2px solid red; */
+    background: url('/src/assets/react.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 300px;
+    padding: 30px;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
+
+#main-title {
+    margin: 18px 0px;
+}

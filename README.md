@@ -16,6 +16,17 @@ The goal was to understand components, JSX, styling, and project structure using
 - Asset handling using Vite  
 - Simple and readable code written for learning purposes  
 
+## Purpose
+
+This project was built purely for learning.  
+The main focus areas were:
+
+- understanding React's component model  
+- practicing JSX  
+- organizing files in a clean, modular structure  
+- getting comfortable with Vite and React together
+
+
 ## Screenshots
 
 ### First view
@@ -58,15 +69,7 @@ public/
  └─ vite.svg
 ```
 
-## Purpose
 
-This project was built purely for learning.  
-The main focus areas were:
-
-- understanding React's component model  
-- practicing JSX  
-- organizing files in a clean, modular structure  
-- getting comfortable with Vite and React together  
 
 ## How to Run
 
